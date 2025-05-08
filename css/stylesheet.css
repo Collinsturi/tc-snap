@@ -59,7 +59,7 @@
 }
 /* Main content */
 main {
-  height: 100vh;
+  height: 100%;
 }
 
 /* 1. Introduction section */
@@ -100,8 +100,8 @@ main {
 }
 
 .hero-image {
-  width: 50%;
-  height: 80%;
+  width: 40%;
+  height: 60%;
 }
 
 .hero-image img {
