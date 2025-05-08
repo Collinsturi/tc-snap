@@ -108,3 +108,13 @@ main {
   width: 100%;
   height: 100%;
 }
+
+.clients {
+  display: flex;
+  margin-top: 10%;
+  margin-right: 10%;
+}
+
+.clients img {
+  padding-left: 5%;
+}
